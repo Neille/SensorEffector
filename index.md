@@ -18,7 +18,7 @@ During the Past 5 Weeks the school was on strike. This is what I worked on durin
 * I set up the code for the sunlight sensor to test. It prints out Vis (visible light), IR (infrared light) and UV Index (UV-Llght)
 * Output of testing the Sunlight Sensor:
 
-<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Testing%20the%20Sunlight%20Sensor.png" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
+<img src="" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
 
 * Adding the modules to my Student Sense Hat
 
@@ -26,15 +26,15 @@ On Week 5 October 16, 2017
 * I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
 * Grove Connector Interface and Sunlight Sensor
 
-<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20sensor%20and%20Grove%20Connector%20Interface.jpg" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
+<img src="" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
 
 * Watched videos on how to solder.
 * On Wednesday October 18, I went to the prototype lab to solder my PCB board for the student sense hat. As of right now I have completed soldering for the PCB board. I'm now missing the module need to complete the student sense hat. The next step is to test the PCB board to see if it will power up.
 
 ### Week 4 October 2, 2017
-* I Submitted my [Budget Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.xlsx)
+* I Submitted my [Budget Plan]()
 
-![Image of BudgetPlan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png)
+![Image of BudgetPlan]()
 
 * During the weekend I started to buy the parts needed for my project.
 * During class I also tried to test out the Raspberry pi lab testing the light blinking but I wasn't able to connect the Raspberry pi to the computer. I followed the step but got into a problem when connecting to the raspberry pi. I use Raspberry pi #153 from the part crib.
@@ -42,32 +42,32 @@ On Week 5 October 16, 2017
 * Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 12.
 * Grove I2C Sunlight Sensor / UV / IR 3 Receipt
 
-![Image of Grove I2C Sunlight Sensor / UV / IR 3 Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20Sensor%20order%20summary.png)
+![Image of Grove I2C Sunlight Sensor / UV / IR 3 Receipt]()
 
 * Grove Connector Interface for the Raspberry Pi Receipt 
 
-![Image of Pi2Grover - Grove Connector Interface for the Raspberry Pi Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Pi2Grover%20-%20Grove%20Connector%20Interface%20for%20the%20Raspberry%20Pi%20order%20summary.png)
+![Image of Pi2Grover - Grove Connector Interface for the Raspberry Pi Receipt]()
 
 ### Week 3 September 25, 2017
-* During class I submitted my [Schedule Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Project%20Schedule%20-Raphael%20Carlo%20Najera.pdf)
+* During class I submitted my [Schedule Plan]()
 
-![Image of Project Plan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-%20Project%20Plan.PNG)
+![Image of Project Plan]()
 
 * The next step is to create my Budget Plan which will help me decide how much I would spend on my project. I already ordered my Raspberry Pi 3.
 * The next part is to ordered Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi. I orderd these parts on October 1.
 
 ### Week 2 September 18, 2017
-* I submitted my [Proposal](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/ProposalContentRaphaelNajeraRev02.pdf)
+* I submitted my [Proposal]()
 * The next step is to start on creating my schedule plan which is due on Week 3.
 * I ordered the Raspberry Pi 3 on amazon on September 20,2017 and recived the Raspberry Pi 3 on September 21, 2017.
 * Raspberry Pi 3 Receipt
 
-![Image of Raspberry Pi 3 Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raspberry%20Pi%203%20order%20summary.png)
+![Image of Raspberry Pi 3 Receipt]()
 
 * I Used the program called fritzing to add my name to the PCB board. I then sent an email attched with the gerber files to vlad/kelly to request for the PCB board.
 
 ### Week 1 September 11,2017
-* I created my [repository](https://github.com/RaphaelNajera/Sunlight_Sensor) and choose the sensor that I will be building with for my IoT Hardware project.
+* I created my [repository]() and choose the sensor that I will be building with for my IoT Hardware project.
 * The sensor I choose is Sunlight sensor. 
 * I started to research about the sunlight sensor and build guild on what to build with the sunlight sensor with will help me on creating my proposal that is due next week.
 
