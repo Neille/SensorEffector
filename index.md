@@ -9,6 +9,7 @@ Neille Lorenzo Blog
 -------------
 ### Week 6 (October 16, 2017 - November 27, 2017)
 
+I am in the process of soldering the modules to the PCB and all my parts have arrived.
 
 ### Week 5 October 16, 2017
 
