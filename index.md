@@ -2,10 +2,10 @@
 tagline: Website with GitHub Pages
 description: Simple website with GitHub Pages
 layout: page
-title: Raphael Carlo Najera CENG 317 Blog
+title: CENG317: Hardware Project Blog
 ---
 
-Raphael Najera CENG 317 Sunlight Sensor Blog.
+Neille Lorenzo Blog
 -------------
 ### Week 6 (October 16, 2017 - November 27, 2017)
 During the Past 5 Weeks the school was on strike. This is what I worked on during the strike:
