@@ -20,7 +20,11 @@ I am in the process of soldering the modules to the PCB and all my parts have ar
 ### Week 3 September 25, 2017
 
 
+
 ### Week 2 September 18, 2017
 
+Budget
 
 ### Week 1 September 11,2017
+
+Created Repository
